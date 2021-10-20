@@ -2,7 +2,7 @@
 <br>
 
 ##  Question/Need:
-Target of this project are private practice doctors that have a lot of patients. A machine learning program will assist the doctor in diagnosing a patient if they have diabetes or not because they can simply enter the results from the lab and the program can provide an answer more quickly. Which will allow the doctor to see more patients. The goal is to provide doctors with a machine learning model that will assist them in diagnosis, treatment, medication, and other ways to handle or prevent the patient from having diabetes. If the patient does have diabetes, they can use the model to help the patient with treatment.
+Target of this project are private practice doctors that have a lot of patients. A machine learning program will assist the doctor in diagnosing a patient if they have diabetes or not because they can simply compare the results from the lab with the program can provide an answer more quickly. Which will allow the doctor to see more patients. The goal is to provide doctors with a machine learning model that will assist them in diagnosis, treatment, medication, and other ways to handle or prevent the patient from having diabetes. If the patient does have diabetes, they can use the model to help the patient with treatment.
 <br>
 
 ##  Data Discription
