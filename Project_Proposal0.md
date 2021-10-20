@@ -8,7 +8,8 @@ Target of this project are doctors that specialize in eyes. The machine learning
 
 ##  Data Discription
 <br>
-Kaggle was where the data gathered. The link is [Kaggle: Ocular Disease Recognition](https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k) This data set has 4,691 data point with 8 features. The feature consist of normal (non-disease patient) eyes, diabetes patients eyes, glaucoma patient eyes, cataract patient eyes, age related Macular Degeneration patient eyes, hypertension patient eyes, pathological Myopia patient eyes, and other diseases/abnormalities(sp) patient eyes. 
+Kaggle was where the data gathered. 
+The link is [Kaggle: Ocular Disease Recognition](https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k) This data set has 4,691 data point with 8 features. The feature consist of normal (non-disease patient) eyes, diabetes patients eyes, glaucoma patient eyes, cataract patient eyes, age related Macular Degeneration patient eyes, hypertension patient eyes, pathological Myopia patient eyes, and other diseases/abnormalities(sp) patient eyes. 
 <br>
 
 ##  Tools
