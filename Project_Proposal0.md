@@ -1,4 +1,4 @@
-# Create a Classification Model to Help Doctors Treat Diabete Patients. [Name of Project]
+# Create a Classification Model to Help Doctors Treat Diabete Patients.
 <br>
 
 ##  Question/Need:
