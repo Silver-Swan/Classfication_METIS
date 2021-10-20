@@ -1,4 +1,4 @@
-# Detecting occular disease using machine learning. [Name of Project]
+# [Name of Project]
 <br>
 
 ##  Question/Need:
