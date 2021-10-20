@@ -1,2 +1,2 @@
 # Classfication Repo
-This folder is for classfication module for Metis.
+This Repo is for the classfication module for Metis.
