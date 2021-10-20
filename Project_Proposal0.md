@@ -1,8 +1,8 @@
-# Create a Classification Model to Help Doctors Treat Diabete Patients.
+# Create a Classification Model to Help Private Practice Doctors to Diagnose and Treat Diabete Patients.
 <br>
 
 ##  Question/Need:
-Target of this project are doctors with patients that show evidence that they might have diabetes and what to do to either prevent or take control of it. The machine learning program will help doctors have an easier time to diagnose patients. The goal is to provide doctors with a machine learning model that will assist them in diagnosis, treatment, medication, and other ways to handle or prevent the patient from having diabetes. If the patient does have diabetes, they can use the model to help the patient with treatment.
+Target of this project are private practice doctors that have a lot of patients. A machine learning program will assist the doctor in diagnosing a patient if they have diabetes or not because they can simply enter the results from the lab and the program can provide an answer more quickly. Which will allow the doctor to see more patients. The goal is to provide doctors with a machine learning model that will assist them in diagnosis, treatment, medication, and other ways to handle or prevent the patient from having diabetes. If the patient does have diabetes, they can use the model to help the patient with treatment.
 <br>
 
 ##  Data Discription
@@ -11,7 +11,7 @@ This data set has 100,000 number of instances with 55 features or attributes. Th
 <br>
 
 ##  Tools
-- Python to create a machine learning program. The program will use classification models to build a prediction model. Using pandas to create a database for diabetes, SKlearn library to perform Using kNN dicision regions to help build a classification model. Then apply a logistic regression to the training data set to see how accurate it is in determining if a patient has diabetes or not. 
+- Python to create a machine learning program. The program will use classification models to build a prediction model. Using pandas to create a database for diabetes, SKlearn library to perform kNN dicision region graphs to help build a classification model. Then apply a logistic regression to the training data set to see how accurate it is in determining if a patient has diabetes or not. 
 - Visualization tools like Google sheets or Tableau.
 <br>
 
