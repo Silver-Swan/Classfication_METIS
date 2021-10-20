@@ -1,4 +1,4 @@
-# [Name of Project]
+# Create a Classification Model to Help Doctors Treat Diabete Patients. [Name of Project]
 <br>
 
 ##  Question/Need:
@@ -6,7 +6,7 @@ Target of this project are doctors that specialize in eyes. The machine learning
 <br>
 
 ##  Data Discription
-The data gathered was from this link [Kaggle: Ocular Disease Recognition](https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k). 
+The data gathered was from this link [UCI Machine Learning Repository: Diabetes from 130 US hospitals for years 1999-2008 Data Set](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008). 
 This data set has 4,691 data point with 8 features. The feature consist of normal (non-disease patient) eyes, diabetes patients eyes, glaucoma patient eyes, cataract patient eyes, age related Macular Degeneration patient eyes, hypertension patient eyes, pathological Myopia patient eyes, and other diseases/abnormalities(sp) patient eyes. 
 <br>
 
