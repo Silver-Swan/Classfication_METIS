@@ -9,5 +9,5 @@ image 1
 
 ## Graph 2
 
-!image 2
+![image 2](github adress)
 <br>
