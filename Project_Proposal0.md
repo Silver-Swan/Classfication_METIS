@@ -16,7 +16,6 @@ This data set has 100,000 number of instances with 55 features or attributes. Th
 <br>
 
 ##  MVP Goal
-- Build a baseline model to determine if a patient 
-- Provide some graphs that using classification model will be an effective prediction method to assist. 
-- Provide a graph to show accuracy with a training set of data.
+- Build a baseline model off the training data set to determine if a patient has diabetes or not. 
+- Provide some a kNN dicision region graph to show patients with diabetes and those without. 
 - With added complexity, it will show that the model will allow for accuracy.
