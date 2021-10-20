@@ -12,7 +12,7 @@ This data set has 100,000 number of instances with 55 features or attributes. Th
 
 ##  Tools
 - Python to create a machine learning program. The program will use classification models to build a prediction model. Using pandas to create a database for diabetes, SKlearn library to perform kNN dicision region graphs to help build a classification model. Then apply a logistic regression to the training data set to see how accurate it is in determining if a patient has diabetes or not. 
-- Visualization tools like Google sheets or Tableau.
+- Try other visualization tools like Google sheets or Tableau to create graphs that might be more clarified than matplotlib, seaborn or the graphs created by sklearn.
 <br>
 
 ##  MVP Goal
