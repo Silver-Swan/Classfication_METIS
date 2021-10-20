@@ -11,13 +11,11 @@ This data set has 4,691 data point with 8 features. The feature consist of norma
 <br>
 
 ##  Tools
-<br>
 - Python to create a machine learning program. The program will use classification models to build a prediction model.
 - Using kNN to first ... 
 <br>
 
 ##  MVP Goal
-<br>
 - Provide some graphs that using classification model will be an effective prediction method to assist. 
 - Provide a graph to show accuracy with a training set of data.
 - With added complexity, it will show that the model will allow for accuracy.
