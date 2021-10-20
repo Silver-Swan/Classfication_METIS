@@ -2,12 +2,12 @@
 <br>
 
 ##  Question/Need:
-Target of this project are doctors that specialize in eyes. The machine learning program will help doctors an easier time to diagnose(sp) patients. 
+Target of this project are doctors with patients that show evidence that they might have diabetes and what to do to either prevent or take control of it. The machine learning program will help doctors an easier time to diagnose(sp) patients. 
 <br>
 
 ##  Data Discription
 The data gathered was from this link [UCI Machine Learning Repository: Diabetes from 130 US hospitals for years 1999-2008 Data Set](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008). 
-This data set has 4,691 data point with 8 features. The feature consist of normal (non-disease patient) eyes, diabetes patients eyes, glaucoma patient eyes, cataract patient eyes, age related Macular Degeneration patient eyes, hypertension patient eyes, pathological Myopia patient eyes, and other diseases/abnormalities(sp) patient eyes. 
+This data set has 100,000 number of instances with 55 features or attributes. The feature consist of patient number, race, gender, age, admission type, time in hospital, medical specialty of admitting physician, number of lab test performed, HbA1c test result, diagnosis, number of medication, diabetic medications, number of outpatient, inpatient, and emergency visits in the year before the hospitalization, etc. This dataset will be used to build a predictive model to help doctors diagnose patients in a more efficient way. 
 <br>
 
 ##  Tools
