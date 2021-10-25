@@ -4,7 +4,6 @@ by Edward Kerr
 
 ## Graph 1
 
-image 1
 <br>
 
 ![Diabetes_training_graph](https://github.com/Silver-Swan/Classfication_METIS/blob/main/images/diabetes_training_graph.png)
