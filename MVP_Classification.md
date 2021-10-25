@@ -1,4 +1,4 @@
-#  MVP for [title]
+#  MVP for [Patients with Diabetes what medication would be best.]
 by Edward Kerr
 <br>
 
@@ -8,10 +8,7 @@ by Edward Kerr
 
 ![Diabetes_training_graph](https://github.com/Silver-Swan/Classfication_METIS/blob/main/images/diabetes_training_graph.png)
 
-<br>
-## Graph 2
-
-![image 2](github adress)
+- This is a graph that I was able to get. The number of time patients were admitted to race.
+- I still have a lot of cleaning to do for the diagnosis done by doctors.
 <br>
 
-![]()
